@@ -1,0 +1,14 @@
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\funçoes para strings\Exercicio011\Exercicio011\bin\Debug\net7.0\Exercicio011.exe
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\funçoes para strings\Exercicio011\Exercicio011\bin\Debug\net7.0\Exercicio011.deps.json
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\funçoes para strings\Exercicio011\Exercicio011\bin\Debug\net7.0\Exercicio011.runtimeconfig.json
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\funçoes para strings\Exercicio011\Exercicio011\bin\Debug\net7.0\Exercicio011.dll
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\funçoes para strings\Exercicio011\Exercicio011\bin\Debug\net7.0\Exercicio011.pdb
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\funçoes para strings\Exercicio011\Exercicio011\obj\Debug\net7.0\Exercicio011.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\funçoes para strings\Exercicio011\Exercicio011\obj\Debug\net7.0\Exercicio011.AssemblyInfoInputs.cache
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\funçoes para strings\Exercicio011\Exercicio011\obj\Debug\net7.0\Exercicio011.AssemblyInfo.cs
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\funçoes para strings\Exercicio011\Exercicio011\obj\Debug\net7.0\Exercicio011.csproj.CoreCompileInputs.cache
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\funçoes para strings\Exercicio011\Exercicio011\obj\Debug\net7.0\Exercicio011.dll
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\funçoes para strings\Exercicio011\Exercicio011\obj\Debug\net7.0\refint\Exercicio011.dll
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\funçoes para strings\Exercicio011\Exercicio011\obj\Debug\net7.0\Exercicio011.pdb
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\funçoes para strings\Exercicio011\Exercicio011\obj\Debug\net7.0\Exercicio011.genruntimeconfig.cache
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\funçoes para strings\Exercicio011\Exercicio011\obj\Debug\net7.0\ref\Exercicio011.dll

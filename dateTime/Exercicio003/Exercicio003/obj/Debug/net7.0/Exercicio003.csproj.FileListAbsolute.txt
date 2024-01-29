@@ -1,0 +1,14 @@
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\dateTime\Exercicio003\Exercicio003\bin\Debug\net7.0\Exercicio003.exe
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\dateTime\Exercicio003\Exercicio003\bin\Debug\net7.0\Exercicio003.deps.json
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\dateTime\Exercicio003\Exercicio003\bin\Debug\net7.0\Exercicio003.runtimeconfig.json
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\dateTime\Exercicio003\Exercicio003\bin\Debug\net7.0\Exercicio003.dll
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\dateTime\Exercicio003\Exercicio003\bin\Debug\net7.0\Exercicio003.pdb
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\dateTime\Exercicio003\Exercicio003\obj\Debug\net7.0\Exercicio003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\dateTime\Exercicio003\Exercicio003\obj\Debug\net7.0\Exercicio003.AssemblyInfoInputs.cache
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\dateTime\Exercicio003\Exercicio003\obj\Debug\net7.0\Exercicio003.AssemblyInfo.cs
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\dateTime\Exercicio003\Exercicio003\obj\Debug\net7.0\Exercicio003.csproj.CoreCompileInputs.cache
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\dateTime\Exercicio003\Exercicio003\obj\Debug\net7.0\Exercicio003.dll
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\dateTime\Exercicio003\Exercicio003\obj\Debug\net7.0\refint\Exercicio003.dll
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\dateTime\Exercicio003\Exercicio003\obj\Debug\net7.0\Exercicio003.pdb
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\dateTime\Exercicio003\Exercicio003\obj\Debug\net7.0\Exercicio003.genruntimeconfig.cache
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\dateTime\Exercicio003\Exercicio003\obj\Debug\net7.0\ref\Exercicio003.dll

@@ -1,0 +1,14 @@
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\enumeração e composição\Projeto002\Projeto002\bin\Debug\net7.0\Projeto002.exe
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\enumeração e composição\Projeto002\Projeto002\bin\Debug\net7.0\Projeto002.deps.json
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\enumeração e composição\Projeto002\Projeto002\bin\Debug\net7.0\Projeto002.runtimeconfig.json
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\enumeração e composição\Projeto002\Projeto002\bin\Debug\net7.0\Projeto002.dll
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\enumeração e composição\Projeto002\Projeto002\bin\Debug\net7.0\Projeto002.pdb
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\enumeração e composição\Projeto002\Projeto002\obj\Debug\net7.0\Projeto002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\enumeração e composição\Projeto002\Projeto002\obj\Debug\net7.0\Projeto002.AssemblyInfoInputs.cache
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\enumeração e composição\Projeto002\Projeto002\obj\Debug\net7.0\Projeto002.AssemblyInfo.cs
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\enumeração e composição\Projeto002\Projeto002\obj\Debug\net7.0\Projeto002.csproj.CoreCompileInputs.cache
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\enumeração e composição\Projeto002\Projeto002\obj\Debug\net7.0\Projeto002.dll
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\enumeração e composição\Projeto002\Projeto002\obj\Debug\net7.0\refint\Projeto002.dll
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\enumeração e composição\Projeto002\Projeto002\obj\Debug\net7.0\Projeto002.pdb
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\enumeração e composição\Projeto002\Projeto002\obj\Debug\net7.0\Projeto002.genruntimeconfig.cache
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\enumeração e composição\Projeto002\Projeto002\obj\Debug\net7.0\ref\Projeto002.dll

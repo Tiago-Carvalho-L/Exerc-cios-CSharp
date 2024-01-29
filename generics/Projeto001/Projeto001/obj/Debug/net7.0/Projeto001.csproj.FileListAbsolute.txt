@@ -1,0 +1,14 @@
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\generics\Projeto001\Projeto001\bin\Debug\net7.0\Projeto001.exe
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\generics\Projeto001\Projeto001\bin\Debug\net7.0\Projeto001.deps.json
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\generics\Projeto001\Projeto001\bin\Debug\net7.0\Projeto001.runtimeconfig.json
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\generics\Projeto001\Projeto001\bin\Debug\net7.0\Projeto001.dll
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\generics\Projeto001\Projeto001\bin\Debug\net7.0\Projeto001.pdb
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\generics\Projeto001\Projeto001\obj\Debug\net7.0\Projeto001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\generics\Projeto001\Projeto001\obj\Debug\net7.0\Projeto001.AssemblyInfoInputs.cache
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\generics\Projeto001\Projeto001\obj\Debug\net7.0\Projeto001.AssemblyInfo.cs
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\generics\Projeto001\Projeto001\obj\Debug\net7.0\Projeto001.csproj.CoreCompileInputs.cache
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\generics\Projeto001\Projeto001\obj\Debug\net7.0\Projeto001.dll
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\generics\Projeto001\Projeto001\obj\Debug\net7.0\refint\Projeto001.dll
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\generics\Projeto001\Projeto001\obj\Debug\net7.0\Projeto001.pdb
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\generics\Projeto001\Projeto001\obj\Debug\net7.0\Projeto001.genruntimeconfig.cache
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\generics\Projeto001\Projeto001\obj\Debug\net7.0\ref\Projeto001.dll
