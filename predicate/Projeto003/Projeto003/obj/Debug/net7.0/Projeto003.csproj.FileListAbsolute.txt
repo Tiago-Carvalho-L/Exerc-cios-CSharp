@@ -1,0 +1,15 @@
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\predicate\Projeto003\Projeto003\bin\Debug\net7.0\Projeto003.exe
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\predicate\Projeto003\Projeto003\bin\Debug\net7.0\Projeto003.deps.json
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\predicate\Projeto003\Projeto003\bin\Debug\net7.0\Projeto003.runtimeconfig.json
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\predicate\Projeto003\Projeto003\bin\Debug\net7.0\Projeto003.dll
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\predicate\Projeto003\Projeto003\bin\Debug\net7.0\Projeto003.pdb
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\predicate\Projeto003\Projeto003\obj\Debug\net7.0\Projeto003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\predicate\Projeto003\Projeto003\obj\Debug\net7.0\Projeto003.AssemblyInfoInputs.cache
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\predicate\Projeto003\Projeto003\obj\Debug\net7.0\Projeto003.AssemblyInfo.cs
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\predicate\Projeto003\Projeto003\obj\Debug\net7.0\Projeto003.csproj.CoreCompileInputs.cache
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\predicate\Projeto003\Projeto003\obj\Debug\net7.0\Projeto003.sourcelink.json
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\predicate\Projeto003\Projeto003\obj\Debug\net7.0\Projeto003.dll
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\predicate\Projeto003\Projeto003\obj\Debug\net7.0\refint\Projeto003.dll
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\predicate\Projeto003\Projeto003\obj\Debug\net7.0\Projeto003.pdb
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\predicate\Projeto003\Projeto003\obj\Debug\net7.0\Projeto003.genruntimeconfig.cache
+C:\Users\tetti\OneDrive\Área de Trabalho\cursos\Cursos de programaçao\C#\testeproprios\predicate\Projeto003\Projeto003\obj\Debug\net7.0\ref\Projeto003.dll
